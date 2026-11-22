@@ -1,2 +1,2 @@
-# Ensayo-2-P2-Traducci-n-a-Java-Estructuras-de-control
+# DEBERES CODIFICACION DE JAVA
 Deber de traducción seudocódigo a java
